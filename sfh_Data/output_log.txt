@@ -1,4 +1,4 @@
-Initialize engine version: 5.0.0b21 (e285fa5f42d9)
+Initialize engine version: 5.0.1p1 (643d93bfede0)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
@@ -8,16 +8,270 @@ Direct3D:
 Begin MonoManager ReloadAssembly
 Platform assembly: C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\sfh_Data\Managed\UnityEngine.dll (this message is harmless)
 Loading C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\sfh_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\sfh_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\sfh_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
 Platform assembly: C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\sfh_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\sfh_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\sfh_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\sfh_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.050 seconds
+- Completed reload, in  0.062 seconds
 desktop: 1920x1200 60Hz; virtual: 4320x1506 at -2400,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
 Platform assembly: C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\sfh_Data\Managed\System.Core.dll (this message is harmless)
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1c38 -> priority: 1 
-  Thread -> id: 1c80 -> priority: 1 
+  Thread -> id: 23c4 -> priority: 1 
+  Thread -> id: 1968 -> priority: 1 
+Tree hit Tree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Sphere hit Sphere
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Cube hit Cube
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Sphere hit Sphere
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Tree hit Tree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Cube hit Cube
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Sphere hit Sphere
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Ground hit Ground
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Tree hit Tree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Capsule hit Capsule
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Cube hit Cube
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Ground hit Ground
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Cube hit Cube
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Cube hit Cube
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Capsule hit Capsule
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Ground hit Ground
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Cube hit Cube
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Ground hit Ground
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Sphere hit Sphere
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Sphere hit Sphere
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Ground hit Ground
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Cube hit Cube
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Sphere hit Sphere
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Sphere hit Sphere
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Cube hit Cube
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Sphere hit Sphere
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Tree hit Tree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Capsule hit Capsule
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Capsule hit Capsule
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Ground hit Ground
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Capsule hit Capsule
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Sphere hit Sphere
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Tree hit Tree
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Capsule hit Capsule
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Sphere hit Sphere
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
+Ground hit Ground
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+NewBehaviourScript:OnCollisionEnter(Collision) (at C:\Users\unite\Documents\5.x PROJECTS\Enlighten Project\Assets\NewBehaviourScript.cs:20)
+ 
+(Filename: C:/Users/unite/Documents/5.x PROJECTS/Enlighten Project/Assets/NewBehaviourScript.cs Line: 20)
+
